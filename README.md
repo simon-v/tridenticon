@@ -20,8 +20,6 @@ Example icons, as produced by `identicon.py --test`:
 
 ![example icons](tridenticon.png)
 
-The program is released under the "Do what you feel is right, but don't be a jerk" public license, and it comes without any kind of warranty.
-
 ### Other Notes
 
 This program is free software, released under the Apache License, Version 2.0. See the LICENSE file for more information.
