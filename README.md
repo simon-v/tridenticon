@@ -18,12 +18,12 @@ To use from the command line:
 
 Example icons, as produced by `identicon.py --test`:
 
-![example icons](tridenticon.png)
+![example icons](/tridenticon/raw/master/tridenticon.png)
 
 ### Other Notes
 
 This program is free software, released under the Apache License, Version 2.0. See the LICENSE file for more information.
 
-The program's canonical project page resides at https://github.com/simon-v/tridenticon/
+The program's canonical project page resides at https://simonvolpert.com/tridenticon/
 
 I gratefully accept appreciation for my work in material form at __[bitcoincash:qp9ctaaz4rczxwf06wv34mq0ffv9gcvcfsm3sc9nuc](bitcoincash:qp9ctaaz4rczxwf06wv34mq0ffv9gcvcfsm3sc9nuc)__.
